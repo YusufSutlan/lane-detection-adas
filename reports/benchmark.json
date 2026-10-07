@@ -1,0 +1,47 @@
+[
+  {
+    "difficulty": 0.0,
+    "detected": 1.0,
+    "accurate": 1.0,
+    "offset_mae_cm": 1.0367672075896412,
+    "offset_p95_cm": 1.5583326612663002,
+    "curvature_mae_per_km": 0.06935432129474806,
+    "width_mae_cm": 0.5485345415733018
+  },
+  {
+    "difficulty": 0.25,
+    "detected": 1.0,
+    "accurate": 1.0,
+    "offset_mae_cm": 0.9455960190601866,
+    "offset_p95_cm": 1.5683414042811736,
+    "curvature_mae_per_km": 0.0664028769290459,
+    "width_mae_cm": 0.6018309225281291
+  },
+  {
+    "difficulty": 0.5,
+    "detected": 1.0,
+    "accurate": 0.99,
+    "offset_mae_cm": 1.2932026343424896,
+    "offset_p95_cm": 2.1067939379790768,
+    "curvature_mae_per_km": 0.1545276591050586,
+    "width_mae_cm": 1.4701795711571748
+  },
+  {
+    "difficulty": 0.75,
+    "detected": 1.0,
+    "accurate": 0.94,
+    "offset_mae_cm": 3.2948135729927235,
+    "offset_p95_cm": 18.802659220177027,
+    "curvature_mae_per_km": 1.1880959802695543,
+    "width_mae_cm": 5.815917663892689
+  },
+  {
+    "difficulty": 1.0,
+    "detected": 0.97,
+    "accurate": 0.94,
+    "offset_mae_cm": 4.524868060770415,
+    "offset_p95_cm": 13.31560095376142,
+    "curvature_mae_per_km": 2.5716733434241994,
+    "width_mae_cm": 9.91153223643714
+  }
+]

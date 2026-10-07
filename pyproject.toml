@@ -1,0 +1,9 @@
+[project]
+name = "lane-detection-adas"
+version = "0.1.0"
+description = "Lane detection and lateral offset estimation for ADAS with a quantified benchmark"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
